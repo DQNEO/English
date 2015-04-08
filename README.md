@@ -10,6 +10,9 @@
 
 ## Tools
 
+## Dictionaries (paper)
+* Collins English Thesaurus
+
 ## WebSites
 * http://www.vocabulary.com/dictionary/
 
