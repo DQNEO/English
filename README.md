@@ -1,7 +1,7 @@
 # DQNEO English Study Note
 
 ## Podcasts
-* NHK Radio
+* NHK World Radio Japan
 * ESL
 * VOA Special English
 
